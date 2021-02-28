@@ -1,0 +1,8 @@
+node_modules
+dist
+yarn-error.log
+index.html
+.vscode
+# exclude everything
+bundle/*
+dist/*
