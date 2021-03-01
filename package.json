@@ -19,10 +19,12 @@
   "dependencies": {
     "asymmetric-encryption": "^1.2.3",
     "node-fetch": "^2.6.1",
+    "openpgp": "^5.0.0-0",
     "pbkdf2": "^3.1.1"
   },
   "devDependencies": {
     "@types/node-fetch": "^2.5.8",
+    "@types/openpgp": "^4.4.15",
     "@types/pbkdf2": "^3.1.0",
     "browserify": "^17.0.0",
     "nodemon": "^2.0.7",
